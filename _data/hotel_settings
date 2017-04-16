@@ -1,0 +1,15 @@
+---
+_hotel_id: HODE
+_portal_id: demohotel
+latitude: 34.8407682
+longitude: -90.3587698
+name: Hotel Demo
+email: elizabeth@traveltripper.com
+phone_number: 800-766-5825
+address:
+  street1: 711 Lucky Ln
+  street2: ''
+  state: Mississippi
+  city: Robinsonville
+  country: United States
+  zip_code: '38664'
